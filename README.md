@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <b>Benchmarking and Evaluating Metaheuristic Optimization Algorithms</b>
+  <h1>Benchmarking and Evaluating Metaheuristic Optimization Algorithms</h1>
 </p>
 
 ---
